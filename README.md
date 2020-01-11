@@ -2,11 +2,13 @@
 
 A web application that allows users to compare 2 movies.
 
-Tools/Libaries used:
+Tools/Libaries/APIS used:
 
 - HTML5
+- Bulma CSS Framework
 - JavaScript ES6+
 - Axios
-- Bulma CSS Framework
+- OMDb (Open Movie Database) API
 - CDNJS
-- FontAwesome for icons
+- FontAwesome (icon)
+- Google Fonts

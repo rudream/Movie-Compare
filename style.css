@@ -12,7 +12,8 @@ figure.image {
 
 h1.title {
     text-align: center;
-    font-family: sans-serif;
+    font-family: "Bebas Neue", cursive;
+    letter-spacing: 0.2rem;
 }
 
 figure .image img {
@@ -25,10 +26,6 @@ figure .image img {
 
 .title .icon {
     margin-left: 15px;
-}
-
-.icon {
-    transform: translateY(3px);
 }
 
 .hero {
@@ -44,6 +41,14 @@ figure .image img {
     display: flex;
     align-items: center;
     height: 60px;
+}
+
+.tutorial p {
+    margin-bottom: 1rem;
+}
+
+.tutorial h1 {
+    margin-top: 1rem;
 }
 
 .dropdown-item img {

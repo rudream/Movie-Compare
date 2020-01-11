@@ -47,6 +47,14 @@ figure .image img {
     margin-bottom: 1rem;
 }
 
+p.title {
+    font-family: "Bitter", serif;
+}
+
+.content h1 {
+    font-family: "Bitter", serif;
+}
+
 .tutorial h1 {
     margin-top: 1rem;
 }

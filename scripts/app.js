@@ -147,7 +147,7 @@ const movieTemplate = movieDetails => {
     });
 
     return `
-        <article class="media">
+        <article class="media movie-summary">
             <figure class="media-left">
                 <p class="image">
                     <img src="${movieDetails.Poster}">

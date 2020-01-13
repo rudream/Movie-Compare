@@ -10,6 +10,44 @@ figure.image {
     background-color: black;
 }
 
+.hero.is-primary.is-bold {
+    background-image: linear-gradient(
+        141deg,
+        #2d132c 0%,
+        #801336 71%,
+        #a32233 100%
+    );
+}
+
+.content {
+    color: white;
+}
+
+.content h1 {
+    color: white;
+}
+
+.content h4 {
+    color: rgb(224, 224, 224);
+}
+
+#tutorial {
+    background-color: #801336;
+}
+
+html {
+    height: 100vh;
+    background-color: #c72c41;
+}
+
+article.notification.is-primary {
+    background-color: #8cba51;
+}
+
+label {
+    color: white;
+}
+
 h1.title {
     text-align: center;
     font-family: "Bebas Neue", cursive;

@@ -31,6 +31,12 @@ figure.image {
     color: rgb(224, 224, 224);
 }
 
+.movie-summary {
+    background-color: #ad2234;
+    padding: 2rem 1rem;
+    border-radius: 0.5rem;
+}
+
 #tutorial {
     background-color: #801336;
 }
